@@ -1,9 +1,9 @@
-BIENVENIDO WE; ESTAS ANTE  @PedroGranDiosEmperador
-ESTOY EN UN ESTADO DE CONSTANTE SUFRIMIENTO Y ESTRES
-SIN EMBARGO ESTOY AQUI, PARADO CON LA ESPALDA CURVA POR MI MAL POSTURA
+Ya practicante Universitario, estudiante del Tencologido de la Piedad Campus La Piedad Michoacan.
+Usando Github para guardar el codigo que hago en mis clases.
+Me estoy enfocando principalmente en software, backend y programacion web para fortalecerme por esas areas.
+Ocasionalmente me distraigo con pogramacion de videojuegos en varios motores aunque principalmente Godot.
 
-
-... ando aprendiendo Java y Python...
+Desarrollando en Java, C#, python y varios lenguajes mas.
 
 <!---
 PedroGranDiosEmperador/PedroGranDiosEmperador is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
