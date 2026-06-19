@@ -1,4 +1,4 @@
-Ya practicante Universitario, estudiante del Tencologido de la Piedad Campus La Piedad Michoacan.
+Practicante Universitario, estudiante del Tencologido de la Piedad Campus La Piedad Michoacan.
 Usando Github para guardar el codigo que hago en mis clases.
 Me estoy enfocando principalmente en software, backend y programacion web para fortalecerme por esas areas.
 Ocasionalmente me distraigo con pogramacion de videojuegos en varios motores aunque principalmente Godot.
